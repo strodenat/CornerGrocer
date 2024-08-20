@@ -15,10 +15,10 @@ The CornerGrocer Item-Tracking Program is a console-based application developed 
 ### Features:
 - **Search for Item Frequency**: Users can input an item name to see how many times it was purchased.
 - **Frequency Listing**: The program lists the frequency of all items purchased during the day.
-- **Histogram Display**: It visualizes the frequency of items using a histogram format.
+- **Histogram Display**: The program visualizes the frequency of items using a histogram format.
 - **Automatic Backup**: The program generates a `frequency.dat` file at the start, storing the frequency of each item.
 
-## Reflection on Work Completed
+## Reflections
 
 ### Summary of the Project
 The CornerGrocer program was created to solve the problem of tracking item purchases efficiently. By calculating and displaying item frequencies, the grocery store can optimize its layout based on purchasing patterns.
